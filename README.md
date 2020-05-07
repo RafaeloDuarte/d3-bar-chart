@@ -1,0 +1,1 @@
+This bar chart show the populate of the 10 most populous contries. The data come from year 2018 estimate in [World Population Prospects 2017](http://esa.un.org/unpd/wpp/Download/Standard/Population/)
